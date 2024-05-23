@@ -6,10 +6,8 @@
 </div>
 
 
-- 🔭 Hoje trabalho com CRM - Salesforce
-- 🌱 Estudando Salesforce, javascript, typescript, C#, Node.js
+- 🌱 Estudando Java, Angular e AWS
 - 👯 Contate-me no e-mail: luque.italo@gmail.com
-- 😄 Pronouns: Ele/Dele
 
 <div style="display: inline_block"><br>
   
