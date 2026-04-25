@@ -1,5 +1,5 @@
 # Italo Luque
-<br>
+
 Data Engineer | AWS | Data Pipelines
 Data Engineer focused on building scalable data pipelines, cloud data platforms, and high-performance analytical systems.
 
