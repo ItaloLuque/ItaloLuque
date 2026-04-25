@@ -8,6 +8,9 @@ I work designing and implementing data solutions that transform raw data into re
 
 My focus is on building end-to-end data pipelines, optimizing data processing, and enabling data-driven decision making at scale.
 
+Focused on modern data stack:
+AWS (S3, Glue, Athena), Spark/Databricks and columnar storage formats (Parquet/Delta)
+
 ## Tech Stack
 
 ### Languages
