@@ -1,35 +1,59 @@
 # Italo Luque
 
-Data Engineer focused on building scalable data pipelines, analytics workflows, and data-driven systems.
+Data Engineer focused on building scalable data pipelines, cloud data platforms, and high-performance analytical systems.
 
 ## About me
 
-I work at the intersection of data and software engineering, building solutions that transform raw data into reliable and scalable information for decision-making.
+I work designing and implementing data solutions that transform raw data into reliable, structured, and production-ready datasets.
 
-Currently focused on:
-- Data pipelines and ETL/ELT processes
-- Analytical data modeling
-- Query performance and optimization
-- Cloud-based data solutions
+My focus is on building end-to-end data pipelines, optimizing data processing, and enabling data-driven decision making at scale.
 
 ## Tech Stack
 
-- Languages: Python, SQL
-- Data: Pandas, DuckDB, PyArrow
-- Databases: PostgreSQL
-- Concepts: Data Modeling, ETL/ELT, Analytics Engineering
-- Tools: Git, Docker
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Featured Projects
+### Data Engineering
+![Apache Spark](https://img.shields.io/badge/Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+![PySpark](https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+
+### Cloud & Data Platform
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/AWS_Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+
+### Data & Storage
+![Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=for-the-badge)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & Workflow
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## What I'm building
+
+- Data pipelines using ETL/ELT approaches
+- Analytical datasets optimized for performance
+- Cloud-based data architectures (AWS)
+- Experiments with data formats and query performance
+- Scalable data processing workflows
+
+## Featured Project
 
 ### Data Formats Performance Analysis
-Comparison between CSV, JSON and Parquet focusing on storage efficiency and query performance using DuckDB.
 
-- Data transformation and format conversion
-- Performance benchmarking
-- Analytical queries on different storage formats
+Comparison between CSV, JSON and Parquet focusing on:
+
+- Storage efficiency
+- Query performance
+- Analytical workloads using DuckDB
 
 ## Contact
 
-- LinkedIn: linkedin.com/in/italopaladino
+- LinkedIn: https://linkedin.com/in/italopaladino
 - Email: italoluque@gmail.com
